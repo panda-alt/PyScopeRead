@@ -5,7 +5,7 @@
   <p>1. Programmable reading of oscilloscope signals at specified timing.</p>
   <p>2. Perform Fourier transform, display, and store data.</p>
   <p>3. More other operations, such as building datasets for deep learning.</p>
-  <p white-space="nowrap">The UNI-T official programming guide see:</p>
+  <a>The UNI-T official programming guide see:</a><a herf="https://instruments.uni-trend.com.cn/static/upload/file/20240313/UPO1000X%E6%95%B0%E5%AD%97%E8%8D%A7%E5%85%89%E7%A4%BA%E6%B3%A2%E5%99%A8%E4%B8%AD%E6%96%87%E7%BC%96%E7%A8%8B%E6%89%8B%E5%86%8CREV.1(2023.pdf">instruments.uni-trend.com</a>
 
 
 <h1>2. Devices & Link</h1>
