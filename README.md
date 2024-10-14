@@ -1,9 +1,11 @@
 # PyScopeRead
 <p>Use Python to control an uin-trend oscilloscope with SCPI in USB, read its data, and then freely do some things.</p>
+<p font-style="italic">Keywords: Python; USB; SCPI; Oscilloscope; Uni-trend;</p>
 <h1>1. Application</h1>
   <p>1. Programmable reading of oscilloscope signals at specified timing.</p>
   <p>2. Perform Fourier transform, display, and store data.</p>
   <p>3. More other operations, such as building datasets for deep learning.</p>
+  <p white-space="nowrap">The UNI-T official programming guide see:</p>
 
 
 <h1>2. Devices & Link</h1>
@@ -34,6 +36,6 @@
 <img src="./DevicesLink.png" width="300" height="270">
 <h1>3. Demo</h1>
 <p>As shown in the following gif</p>
-<img src="./Demo.gif" width="720" height="480">
+<img src="./Demo.gif" width="720" height="405">
 
 
