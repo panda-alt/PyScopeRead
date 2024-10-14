@@ -1,6 +1,6 @@
 # PyScopeRead
 <p>Use Python to control an uin-trend oscilloscope, read its data, and then freely do some things.</p>
-<h1>1. purpose</h1>
+<h1>1. Application</h1>
 <p>1. Programmable reading of oscilloscope signals at specified timing.</p>
 <p>2. Perform Fourier transform, display, and store data.</p>
 <p>3. More other operations, such as building datasets for deep learning.</p>
