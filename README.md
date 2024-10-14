@@ -1,12 +1,12 @@
 # PyScopeRead
-<p>Use Python to control an uin-trend oscilloscope, read its data, and then freely do some things.</p>
+<p>Use Python to control an uin-trend oscilloscope with SCPI in USB, read its data, and then freely do some things.</p>
 <h1>1. Application</h1>
-<p>1. Programmable reading of oscilloscope signals at specified timing.</p>
-<p>2. Perform Fourier transform, display, and store data.</p>
-<p>3. More other operations, such as building datasets for deep learning.</p>
+  <p>1. Programmable reading of oscilloscope signals at specified timing.</p>
+  <p>2. Perform Fourier transform, display, and store data.</p>
+  <p>3. More other operations, such as building datasets for deep learning.</p>
 
 
-<h1>1. Devices & Link</h1>
+<h1>2. Devices & Link</h1>
 <h2>1. Devices</h2>
 <table>
   <thead>
@@ -32,5 +32,8 @@
 <h2>2. Link</h2>
 <p>As shown in the following figure</p>
 <img src="./DevicesLink.png" width="300" height="270">
+<h1>3. Demo</h1>
+<p>As shown in the following gif</p>
+<img src="./Demo.gif" width="720" height="480">
 
 
